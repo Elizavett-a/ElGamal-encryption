@@ -1,0 +1,30 @@
+C:\Work\2_course\4_sem\ТИ\Lab3\TI_Lab3\TI2\bin\Debug\WindowsFormsApp1.exe.config
+C:\Work\2_course\4_sem\ТИ\Lab3\TI_Lab3\TI2\bin\Debug\WindowsFormsApp1.exe
+C:\Work\2_course\4_sem\ТИ\Lab3\TI_Lab3\TI2\bin\Debug\WindowsFormsApp1.pdb
+C:\Work\2_course\4_sem\ТИ\Lab3\TI_Lab3\TI2\obj\Debug\TI_Lab3.csproj.AssemblyReference.cache
+C:\Work\2_course\4_sem\ТИ\Lab3\TI_Lab3\TI2\obj\Debug\TI_Lab3.MainForm.resources
+C:\Work\2_course\4_sem\ТИ\Lab3\TI_Lab3\TI2\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Work\2_course\4_sem\ТИ\Lab3\TI_Lab3\TI2\obj\Debug\TI_Lab3.csproj.GenerateResource.cache
+C:\Work\2_course\4_sem\ТИ\Lab3\TI_Lab3\TI2\obj\Debug\TI_Lab3.csproj.CoreCompileInputs.cache
+C:\Work\2_course\4_sem\ТИ\Lab3\TI_Lab3\TI2\obj\Debug\WindowsFormsApp1.exe
+C:\Work\2_course\4_sem\ТИ\Lab3\TI_Lab3\TI2\obj\Debug\WindowsFormsApp1.pdb
+C:\Work\2_course\4_sem\ТИ\Lab3\TI_Lab3\TI3\obj\Debug\TI_Lab3.csproj.AssemblyReference.cache
+C:\Work\2_course\4_sem\ТИ\Lab3\TI_Lab3\TI3\obj\Debug\TI_Lab3.MainForm.resources
+C:\Work\2_course\4_sem\ТИ\Lab3\TI_Lab3\TI3\obj\Debug\TI_Lab3.csproj.GenerateResource.cache
+C:\Work\2_course\4_sem\ТИ\Lab3\TI_Lab3\TI3\obj\Debug\TI_Lab3.csproj.CoreCompileInputs.cache
+C:\Work\2_course\4_sem\ТИ\Lab3\TI_Lab3\TI3\bin\Debug\TI_Lab3.exe.config
+C:\Work\2_course\4_sem\ТИ\Lab3\TI_Lab3\TI3\bin\Debug\TI_Lab3.exe
+C:\Work\2_course\4_sem\ТИ\Lab3\TI_Lab3\TI3\bin\Debug\TI_Lab3.pdb
+C:\Work\2_course\4_sem\ТИ\Lab3\TI_Lab3\TI3\obj\Debug\TI_Lab3.Properties.Resources.resources
+C:\Work\2_course\4_sem\ТИ\Lab3\TI_Lab3\TI3\obj\Debug\TI_Lab3.exe
+C:\Work\2_course\4_sem\ТИ\Lab3\TI_Lab3\TI3\obj\Debug\TI_Lab3.pdb
+C:\Work\2_course\4_sem\ТИ\Lab3\TI_Lab3 — копия\TI3\bin\Debug\TI_Lab3.exe.config
+C:\Work\2_course\4_sem\ТИ\Lab3\TI_Lab3 — копия\TI3\bin\Debug\TI_Lab3.exe
+C:\Work\2_course\4_sem\ТИ\Lab3\TI_Lab3 — копия\TI3\bin\Debug\TI_Lab3.pdb
+C:\Work\2_course\4_sem\ТИ\Lab3\TI_Lab3 — копия\TI3\obj\Debug\TI_Lab3.csproj.AssemblyReference.cache
+C:\Work\2_course\4_sem\ТИ\Lab3\TI_Lab3 — копия\TI3\obj\Debug\TI_Lab3.MainForm.resources
+C:\Work\2_course\4_sem\ТИ\Lab3\TI_Lab3 — копия\TI3\obj\Debug\TI_Lab3.Properties.Resources.resources
+C:\Work\2_course\4_sem\ТИ\Lab3\TI_Lab3 — копия\TI3\obj\Debug\TI_Lab3.csproj.GenerateResource.cache
+C:\Work\2_course\4_sem\ТИ\Lab3\TI_Lab3 — копия\TI3\obj\Debug\TI_Lab3.csproj.CoreCompileInputs.cache
+C:\Work\2_course\4_sem\ТИ\Lab3\TI_Lab3 — копия\TI3\obj\Debug\TI_Lab3.exe
+C:\Work\2_course\4_sem\ТИ\Lab3\TI_Lab3 — копия\TI3\obj\Debug\TI_Lab3.pdb
